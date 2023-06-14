@@ -1,0 +1,13 @@
+30 days of React - https://github.com/Asabeneh/30-Days-Of-React
+
+React exercises - https://www.w3schools.com/react/react_exercises.asp
+
+Learn through practice - https://react-tutorial.app/
+
+Some YT videos to refer-
+https://youtu.be/f55qeKGgB_M
+https://youtu.be/2-crBg6wpp0
+
+Some project links-
+https://youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
+https://youtu.be/GKYr5eWm8EY
